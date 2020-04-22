@@ -14,7 +14,7 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" USHAR DAVERA  [Tech Tushar]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" TUSHAR DAVERA  [Tech Tushar]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku"TUSHAR DAVERA"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
