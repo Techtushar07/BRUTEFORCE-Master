@@ -45,6 +45,7 @@ echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |
 echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
 echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me"19"$i" |"$cy" http://techtushar.site      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
 echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
